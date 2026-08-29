@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🎓 **HCMUTE** graduate (Ho Chi Minh City University of Technology and Education)
+- 🎓 **HCMUTE** graduate (Ho Chi Minh City University of Technology and Engineering)
 - ⚙️ Focus area: **Embedded Systems** — RISC-V core microarchitecture, RTL design, FPGA/SoC integration
 - 🧩 Designed **RISSP**, a from-scratch single-cycle RV32I core built around a *"modular execution"* datapath — every instruction type (R / I / B / J / U / S) gets its own independent hardware block running in parallel and muxed by opcode, instead of one time-multiplexed ALU
 - 🔬 Built and benchmarked **3 complete RISC-V SoCs** on Xilinx Vivado (ZedBoard `xc7z020`, 40 MHz) — a custom single-cycle core, a standard 5-stage pipeline, and lowRISC's industrial **Ibex** core — all sharing the same hardware **AES-128 / SHA3-256 / RSA-2048** accelerators over AXI4, to isolate microarchitecture as the only variable
@@ -25,7 +25,9 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode" />
+<img src="https://raw.githubusercontent.com/thanhtruong332/thanhtruong332/main/assets/cadence-logo.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/thanhtruong332/thanhtruong332/main/assets/xilinx-vivado-logo.svg" height="48"/>
+<img src="https://skillicons.dev/icons?i=github,linux,vscode" height="48"/>
 
 ![Verilog](https://img.shields.io/badge/Verilog-RTL-1f425f?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL-1f425f?style=flat-square)
