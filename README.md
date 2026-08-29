@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:2E8B57,100:71B280&height=220&section=header&text=Tran%20Thanh%20Truong&fontSize=52&fontColor=ffffff&desc=Embedded%20Systems&descAlignY=62&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/thanhtruong332/thanhtruong332/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/thanhtruong332"><img src="https://komarev.com/ghpvc/?username=thanhtruong332&style=for-the-badge&color=2E8B57&label=Profile+Views" /></a>
 <a href="https://github.com/thanhtruong332?tab=followers"><img src="https://img.shields.io/github/followers/thanhtruong332?style=for-the-badge&color=orange&label=Followers" /></a>
