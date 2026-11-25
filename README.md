@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thanhtruong332/thanhtruong332/main/assets/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/thanhtruong332/thanhtruong332/main/assets/banner.svg?v=3" width="100%"/>
 
 **RTL Design · RISC-V Microarchitecture · FPGA / SoC Integration**
 
